@@ -37,7 +37,7 @@ After mapping this data to the `images` state array and passing it as props to t
 
 # ~ Project Previews: 🖼️ 
 
-[![N|Solid](preview.png)
+![](preview.png)
 
 ```sh 
 iPhone 6/7/8 Plus iOS 11 Screen View: 
